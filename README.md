@@ -1,7 +1,7 @@
 <!-- Markdown tutorial -->
  <!-- 1. newline  -->
  Pankaj Kumar Barman  
- data scientist
+ Aspiring Data scientist
 
 <!-- Pankaj Kumar Barman <br/> Data scientist  -->
 
