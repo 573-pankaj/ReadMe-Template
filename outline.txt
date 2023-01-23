@@ -1,0 +1,16 @@
+1. What and why markdown
+2. How to make a comment
+3. Normal text & new line
+4. Horizontal rule
+5. HEadlines
+6. Paeragraphs
+7. Italic
+8. Strikethrough
+9. inline code block
+10. blod
+11. Multiple line code block
+12. List
+13. Link
+14. Image
+15. Emoji
+16. Table
