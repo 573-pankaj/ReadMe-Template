@@ -17,3 +17,5 @@
 15. Emoji
 16. Table
 17. New Line
+
+Conclusion : These are the simple steps to learn git gitHub.
