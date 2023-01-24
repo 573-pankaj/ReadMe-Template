@@ -24,7 +24,7 @@ Data Science is my profession <hr>
 #### Data
 ##### Data
 
-<p> I will definitely become one of the greatesd data scientist. Currently I am  doing my masters from Ramakrishna Mission Vidyamandira, Indina's One of the best College .</p>
+<p> I will definitely become one of the great data scientist. Currently I am  doing my masters from Ramakrishna Mission Vidyamandira, Indina's One of the best College . Now I am in final year 24/01/2023 , time : 24-01-2023</p>
 
 <i> This is Italic text </i>
 
@@ -105,9 +105,9 @@ cout<< "pankaj"
 
 # Task List
 
-- [x] Task1
-- [x] Task1
-- [x] Task1
+- [1] Task1
+- [2] Task1
+- [3] Task1
 - [x] Task1
 - [x] Task1
 
