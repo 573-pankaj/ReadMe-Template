@@ -1,6 +1,6 @@
 1. What and why markdown
 2. How to make a comment
-3. Normal text & new line
+3. Normal text 
 4. Horizontal rule
 5. HEadlines
 6. Paeragraphs
@@ -14,3 +14,4 @@
 14. Image
 15. Emoji
 16. Table
+17. New Line
