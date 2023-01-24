@@ -45,7 +45,7 @@ __Pankaj__
 <br/>
 # single line code
 `This is inline`
-` <h1>Birth day of Netaji Subash Chandra Bose </h1>`
+` <h1>Birth day of Netaji Subhas Chandra Bose </h1>`
 
 # Multiple line code
 ```
