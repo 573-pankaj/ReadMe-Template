@@ -149,9 +149,9 @@ https://www.linkedin.com/notifications/?filter=all
 
 | Name | Email |
 |---- | --------|
-|pankaj Barman | pankaj33199@gmail.com|
-|pankaj Barman | pankaj33199@gmail.com|
-|pankaj Barman | pankaj33199@gmail.com|
+|Pankaj Kumar Barman | pankaj33199@gmail.com|
+|Pankaj Kumar Barman | pankaj33199@gmail.com|
+|Pankaj Kumar Barman | pankaj33199@gmail.com|
 
 
 
