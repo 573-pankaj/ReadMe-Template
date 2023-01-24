@@ -24,7 +24,7 @@ Data Science is my profession <hr>
 #### Data
 ##### Data
 
-<p>This one of the greatesd data scientist. I am  doing my masters from Ramakrishna Mission Vidyamandira</p>
+<p> I will definitely become one of the greatesd data scientist. Currently I am  doing my masters from Ramakrishna Mission Vidyamandira, Indina's One of the best College .</p>
 
 <i> This is Italic text </i>
 
